@@ -4,6 +4,9 @@
 
 **A culturally personalised health habit tracker for the South Indian lifestyle**
 
+<img src="https://github.com/Danedie04/Sattva-app/blob/main/Screen%20shots/Overview.png" width="300"/>
+
+
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=flat-square&logo=flutter)
 ![Firebase](https://img.shields.io/badge/Firebase-Firestore-FFCA28?style=flat-square&logo=firebase)
 ![Claude AI](https://img.shields.io/badge/Claude_AI-Sonnet-7C3AED?style=flat-square)
@@ -27,7 +30,7 @@ It combines a **premium dark UI**, **Firebase real-time sync**, a **16-day strea
 
 | Login | Dashboard | AI Coach | Progress | Streak |
 |:---:|:---:|:---:|:---:|:---:|
-| ![Login](screenshots/01_login.png) | ![Dashboard](screenshots/02_dashboard.png) | ![Coach](screenshots/03_coach.png) | ![Progress](screenshots/04_progress.png) | ![Streak](screenshots/05_streak.png) |
+| ![Login](https://github.com/Danedie04/Sattva-app/blob/main/Screen%20shots/Screenshot%201.png) | ![Dashboard](https://github.com/Danedie04/Sattva-app/blob/main/Screen%20shots/Screenshot%202.png) | ![Coach](https://github.com/Danedie04/Sattva-app/blob/main/Screen%20shots/Screenshot%203.png) | ![Progress](https://github.com/Danedie04/Sattva-app/blob/main/Screen%20shots/Screenshot%204.png) | ![Streak](https://github.com/Danedie04/Sattva-app/blob/main/Screen%20shots/Screenshot%205.png) |
 
 ---
 
