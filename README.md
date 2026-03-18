@@ -4,7 +4,7 @@
 
 **A culturally personalised health habit tracker for the South Indian lifestyle**
 
-<img src="https://github.com/Danedie04/Sattva-app/blob/main/Screen%20shots/Overview.png" width="300"/>
+<img src="https://github.com/Danedie04/Sattva-app/blob/main/Screen%20shots/Overview.png" width="500" height="400"/>
 
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=flat-square&logo=flutter)
